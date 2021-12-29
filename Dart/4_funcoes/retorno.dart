@@ -18,6 +18,6 @@ String? premio(int x) {
   } else if (x > 20 && x < 30) {
     return '2.000 Mil Reais!!!';
   } else if (x == 42) {
-    return '1.000.000 Milhão Reais!!!';
+    return '1.000.000 Milhão de Reais!!!';
   }
 }
