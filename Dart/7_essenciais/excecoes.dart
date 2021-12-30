@@ -53,6 +53,6 @@ void main() {
   - IMPORTANTE: O tratamento de exceções (try/catch) é diferente das
     condições (if/switch/?:), não confunda!!!
 
-  - Caso não saiba se o valor a ser convertido é memso um número, o ideal é usar
+  - Caso não saiba se o valor a ser convertido é mesmo um número, o ideal é usar
     o TryParse() porque se acontecer um erro será retornado um null.
 */
