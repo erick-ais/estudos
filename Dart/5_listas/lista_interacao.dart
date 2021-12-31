@@ -1,5 +1,3 @@
-import 'dart:io';
-
 void main() {
   List<String> planetas = [
     'Mercúrio',
@@ -17,7 +15,7 @@ void main() {
   }
 
   print('\n');
-  
+
   for (String planetas in planetas) {
     print(planetas.toUpperCase());
   }

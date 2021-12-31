@@ -1,5 +1,3 @@
-import 'basico.dart';
-
 void main() {
   saudacoes('Erick', 'Augusto', cid);
 }
