@@ -5,8 +5,8 @@ void main() {
 
   print('Nome: ${trabalho.nome}\nCargo: ${trabalho.cargo}');
 
-  trabalho.salario = 7500;
-  print('Salário: ${trabalho._salario}');
+  trabalho.salario = 7500; // Utilizando um set
+  print('Salário: ${trabalho._salario}'); // Utilizando um get
 }
 
 class Pessoa {
