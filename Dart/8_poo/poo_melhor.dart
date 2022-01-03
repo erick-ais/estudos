@@ -10,11 +10,23 @@ class Ativo {
   // Atributos
   String empresa = '';
   String acao = '';
-  double cotacao = 0;
+  double _cotacao = 0;
   String divisor = '-' * 20;
 
   // Construtor
-  Ativo(this.empresa, this.acao, this.cotacao); // Parâmetro do contrutor
+  Ativo(this.empresa, this.acao, double parametroCotacao) { // Parâmetro do contrutor
+    this.cotacao = parametroCotacao;
+  }
+
+  // SET define alguma coisa
+  void set cotacao(double cotacao) {
+      this._cotacao = cotacao;
+  }
+
+  // GET obtêm alguma coisa
+  double get cotacao {
+    return this._cotacao;
+  }
 
   // Método
   void papel() {
