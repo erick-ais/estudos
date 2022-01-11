@@ -1,5 +1,4 @@
 # Exercício 004
-
 coisa = input('Digite alguma coisa aí: ')
 
 print(f'Tipo primitivo: {type(coisa)}')
