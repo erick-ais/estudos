@@ -1,39 +1,40 @@
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(Aplicativo());
+  runApp(MyApp());
 }
 
-class Aplicativo extends StatelessWidget {
-  const Aplicativo({Key? key}) : super(key: key);
+class MyApp extends StatelessWidget {
+  const MyApp({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
-      home: ErickHome(),
+      home: HomePage(),
     );
   }
 }
 
-class ErickHome extends StatefulWidget {
-  const ErickHome({Key? key}) : super(key: key);
+class HomePage extends StatefulWidget {
+  const HomePage({Key? key}) : super(key: key);
+
   @override
-  _ErickHomeState createState() => _ErickHomeState();
+  _HomePageState createState() => _HomePageState();
 }
 
-class _ErickHomeState extends State<ErickHome> {
-
+class _HomePageState extends State<HomePage> {
   int count = 0;
 
   @override
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Menu'),
+        title: Text('Aplicativo'),
       ),
       body: Center(
-        child: Text('Erick A. I. Souza ${count}',
-        textDirection: TextDirection.ltr,
+        child: Text(
+          'Contador: ${count}',
+          textDirection: TextDirection.ltr,
         ),
       ),
       floatingActionButton: FloatingActionButton(
