@@ -1,9 +1,13 @@
 import math
-num = int(input('Digite um valor: '))
+import random
+num = random.randint(1, 10)
+
 raiz = math.sqrt(num)
 
 print(raiz)
 print(math.ceil(raiz))
+
+print(f'\nO número sorteado foi: {num}')
 
 
 '''
