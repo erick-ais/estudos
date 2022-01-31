@@ -87,6 +87,13 @@ class _MyAppState extends State<MyApp> {
           numero = '0';
         });
         break;
+      case '<x':
+        setState(() {
+          if(numero.length > 0) {
+            numero = numero.substring(0, numero.length - 1);
+          }
+        });
+        break;
       default:
         numero += tecla;
         break;
