@@ -1,3 +1,5 @@
+import 'dart:math';
+
 void main() {
   // Tipo num
   num numerico_1 = 4.5;
@@ -36,4 +38,17 @@ void main() {
   // Interpolação com String e valor do tipo double
   String idade = 'O $nome_planeta tem $numerico_1 bilhões de anos!';
   print(idade);
+
+  // Tipo bool
+  bool verdadeiro = true;
+  for (int c = 0; c <= 100; c++) {
+    if (verdadeiro) {
+      int sorteado = Random().nextInt(100);
+      print('........ $c');
+      if (c > sorteado) {
+        verdadeiro = false;
+        print(sorteado);
+      }
+    }
+  }
 }
