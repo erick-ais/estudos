@@ -51,4 +51,18 @@ void main() {
       }
     }
   }
+
+  // Tipo por inferência
+  var nomeCompleto = 'Erick Augusto Izidoro souza';
+  dynamic cidadeEstado = 'Ribeirão Pires - SP';
+
+  // Imutabilidade
+  const String animePersonagem = 'Naruto';
+  // animePersonagem = 'Kiba'; Não é possível!
+
+  // pode ser declarado, mas o valor só foi inserido depois.
+  final String planetaGasoso;
+  planetaGasoso = 'Netuno';
+
+  // planetaGasoso = 'Teste'; // Não pode porque já foi atribuido um valor!
 }
