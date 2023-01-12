@@ -1,0 +1,1 @@
+from exercicios.mod.utilidades import moeda, dados

@@ -1,0 +1,3 @@
+Naruto;16
+Sakura;15
+Sasuke;17
