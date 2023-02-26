@@ -4,37 +4,156 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fa4220c-4843-41bc-b511-111d78d16b4e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/1_fundamentos/excecao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_fundamentos/funcoes2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_fundamentos/modulos/numeros.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_fundamentos/modulos/venv/pacote1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_fundamentos/modulos/venv/pacote2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1_fundamentos/modulos/venv/uteis.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex101.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex102.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex103.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex104.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex105.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex106.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex107.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex108.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex109.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex110.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex111.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex112.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex113.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex114.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex115/lib/arquivo/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex115/lib/interface/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/ex115/sistema.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/mod/moeda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/mod/utilidades/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/mod/utilidades/dados/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercicios/mod/utilidades/moeda/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="ad71ba82-ddf2-4090-baed-cc5d5561045d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/poo/py_tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0_informacoes/informacoes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_fundamentos/cadeia_de_texto.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_fundamentos/condicoes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_fundamentos/cores.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_fundamentos/dicionarios.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_fundamentos/excecao.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_fundamentos/formatacao.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_fundamentos/funcoes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_fundamentos/funcoes2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_fundamentos/hello_world.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_fundamentos/lista.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_fundamentos/lista2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_fundamentos/metodos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_fundamentos/modulos/numeros.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_fundamentos/modulos/venv/pacote1/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_fundamentos/modulos/venv/pacote2/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_fundamentos/modulos/venv/uteis.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_fundamentos/operacoes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_fundamentos/operadores_logicos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_fundamentos/repeticao_while.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_fundamentos/repeticoes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_fundamentos/saida_dados.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_fundamentos/tipos_primitivos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_fundamentos/tuplas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex001.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex002.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex003.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex004.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex005.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex006.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex007.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex008.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex009.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex010.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex011.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex012.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex013.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex014.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex015.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex016.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex017.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex018.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex019.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex020.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex021.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex022.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex023.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex024.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex025.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex026.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex027.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex028.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex029.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex030.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex031.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex032.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex033.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex034.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex035.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex036.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex037.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex038.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex039.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex040.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex041.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex042.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex043.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex044.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex045.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex046.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex047.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex048.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex049.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex050.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex051.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex052.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex053.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex054.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex055.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex056.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex057.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex058.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex059.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex060.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex061.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex062.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex063.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex064.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex065.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex066.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex067.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex068.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex069.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex070.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex071.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex072.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex073.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex074.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex075.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex076.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex077.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex078.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex079.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex080.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex081.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex082.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex083.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex084.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex085.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex086.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex087.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex088.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex089.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex090.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex091.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex092.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex093.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex094.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex095.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex096.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex097.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex098.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex099.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex100.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex101.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex102.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex103.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex104.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex105.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex106.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex107.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex108.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex109.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex110.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex111.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex112.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex113.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex114.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex115/cursoemvideo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex115/lib/arquivo/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex115/lib/interface/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/ex115/sistema.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/mod/moeda.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/mod/utilidades/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/mod/utilidades/dados/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercicios/mod/utilidades/moeda/__init__.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +173,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2JqByFRAw9FyhxCHeyuc9apToRo" />
+  <component name="ProjectId" id="2KFXq1cxxnbyg3twyhWXmd6zqEu" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -66,17 +185,11 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Cursos/Python&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Cursos\Python\1_fundamentos\modulos" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Python.sistema">
-    <configuration name="ex112" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.py_tests">
+    <configuration name="condicoes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,11 +197,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercicios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/basico/1_fundamentos" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/ex112.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/basico/1_fundamentos/condicoes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +210,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex113" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="infor_curso" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,11 +218,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercicios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/avancado" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/ex113.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/avancado/infor_curso.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +231,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex114" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="py_tests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,11 +239,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercicios" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/poo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/ex114.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/poo/py_tests.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +252,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="excecao" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test_code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,32 +260,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1_fundamentos" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1_fundamentos/excecao.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="sistema" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercicios/ex115" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercicios/ex115/sistema.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_code.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,22 +275,21 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.sistema" />
-        <item itemvalue="Python.ex114" />
-        <item itemvalue="Python.ex113" />
-        <item itemvalue="Python.excecao" />
-        <item itemvalue="Python.ex112" />
+        <item itemvalue="Python.py_tests" />
+        <item itemvalue="Python.test_code" />
+        <item itemvalue="Python.infor_curso" />
+        <item itemvalue="Python.condicoes" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4fa4220c-4843-41bc-b511-111d78d16b4e" name="Changes" comment="" />
-      <created>1672795985500</created>
+      <changelist id="ad71ba82-ddf2-4090-baed-cc5d5561045d" name="Changes" comment="" />
+      <created>1673571493245</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1672795985500</updated>
+      <updated>1673571493245</updated>
     </task>
     <servers />
   </component>
