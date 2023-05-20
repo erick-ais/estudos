@@ -1,2 +1,4 @@
 # Cursos
- Anotações, exercícios e atividades de estudo.
+ Anotações, exercícios e atividades de estudo dos curso!
+
+# Tecnologia!
